@@ -1,7 +1,7 @@
 ## Squashing or editing commits (Use with care):
 ```bash
 git rebase -i --root
-```
+```git stash
 
 Look at .git/config
 

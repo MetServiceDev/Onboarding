@@ -3,7 +3,7 @@
     1. Create a Github Account
     2. Fork a repository in Github (this is so there are existing files and history to learn from)
 
-![](image001.png) 
+![](./assets/image001.png)
 
 
     3. Clone your forked repository from Github to your laptop
@@ -162,23 +162,23 @@
 
  ```bash
  git pull
- ``` 
+ ```
 
     31. View your changes on Github, select your branch
     https://github.com/pflashgary/cookiecutter/tree/my-playground
 
     32. Select your branch from the popdown, click New Pull Request to get your commits into Master
 
-![](image002.png) 
+![](./assets/image002.png)
 
 
     33. From the Pull Request in Github, look at the file changed.
 
-![](image003.png) 
+![](./assets/image003.png)
 
     34. From the Conversations tab in the Pull Request in Github, Merge your changes into master
 
-![](image004.png) 
+![](./assets/image004.png)
 
     35. Delete your branch on Github (there's an option after merging the pull request)
     36. Take a look at the commits on master
@@ -203,7 +203,7 @@
  ```
 
     40. Sync your master branch with origin/master
-    
+
  ```bash
  git pull
  ```
@@ -215,9 +215,3 @@
  ```
 
     42. Have a glass of water, and feel free to delete the repository in github, and the local copy from your machine.
-
- 
-
- 
-
- 
