@@ -1,11 +1,13 @@
 ## Squashing or editing commits (Use with care):
+
 ```bash
 git rebase -i --root
-```git stash
+```
 
 Look at .git/config
 
 ## Rebase (Use with care)
+
 ```bash
 tig
 git reflog
@@ -28,6 +30,3 @@ git rebase -i origin/master
 tig
 git push --set-upstream origin msg-correction
 ```
-
-
-
